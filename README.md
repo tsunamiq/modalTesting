@@ -1,2 +1,0 @@
-# modalTesting
-Created with CodeSandbox
